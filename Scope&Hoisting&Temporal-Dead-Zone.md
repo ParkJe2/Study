@@ -1,4 +1,4 @@
-## Scope, Hoisting, TDZ(Temporal Dead Zone)
+## 스코프, 호이스팅, TDZ
 
 ### 스코프 (Scope)
 
