@@ -1,4 +1,4 @@
-## 함수 선언문 (Function Declarations)과 함수 표현식 (Function Expressions) 에서 호이스팅((Hoisting)) 방식의 차이
+## 함수 선언문과 함수 표현식에서 호이스팅 방식의 차이
 
 ```js
 function getName() {
