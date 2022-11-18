@@ -121,4 +121,4 @@ undefined
 
 이렇게 변수 선언문이 다른 코드들보다 위로 끌어올려져 먼저 실행되는 것을 변수 호이스팅이라고 한다. 
 
-[참고자료] https://www.youtube.com/watch?v=vMsK5f_0938
+[Reference] https://www.youtube.com/watch?v=vMsK5f_0938
